@@ -1,6 +1,3 @@
 {
-    "recommendations": [
-        "prisma.prisma",
-        "oxc.oxc-vscode"
-    ]
+  "recommendations": ["prisma.prisma", "oxc.oxc-vscode"]
 }
